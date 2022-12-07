@@ -1,4 +1,4 @@
-package main
+package main /для вступительного задания
 import "fmt"
 func main(){
     var a int
